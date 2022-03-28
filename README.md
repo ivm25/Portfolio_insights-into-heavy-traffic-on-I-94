@@ -29,17 +29,17 @@ https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 
 *Organisation of Project*
 
-1. Loading of the data file, absolute source path and loading of the key modules.
+1. *Loading of the data file, absolute source path and loading of the key modules*.
 
-2. Function definitions and structures
+2. *Function definitions and structures*
 
-3. Data Exploration
+3. *Data Exploration*
 
-4. Feature Engineering
+4. *Feature Engineering*
 
-5. Key Visualisations
+5. *Key Visualisations*
 
-6. Conclusions
+6. *Conclusions*
 
 *Data Dictionary*
 
@@ -56,15 +56,15 @@ https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 
 *Key Insights*
 
-1. Traffic is higher during the day time on I-94, especially on the weekdays.
+1. Traffic is **higher during the day time** on I-94, especially on the weekdays.
 
-2. Within the business days, there are specific hours (peaks around 7 and 16).
+2. Within the business days, there are **specific hours (peaks around 7 and 16)**.
 
-3. On an average, the month of July shows lower traffic volume, which is an interesting result and should be investigated further. The warmer months btween (March-October) show a higher traffic as compared to the colder months.
+3. On an average, the **month of July shows lower traffic volume**, which is an interesting result and should be investigated further. The **warmer months between (March-October)** show a higher traffic as compared to the colder months.
 
 4. When other numerical factors were taken into account, it appeared that temperature might have some positive correlation with traffic volume, although it doesnt appear to show any significant relation.
 
-5. When the categorical variables were analysed, a few intersting insights came out: *Squall* and *Fog* show lower traffic volume, *Shower snow* and *light rain and snow* are outliers, with traffic volume going beyond 5000 on an average.
+5. When the **categorical variables** were analysed, a few intersting insights came out: *Squall* and *Fog* show lower traffic volume, *Shower snow* and *light rain and snow* are outliers, with traffic volume going beyond 5000 on an average.
 
 *Things to do*:
 
