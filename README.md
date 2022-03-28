@@ -38,8 +38,6 @@ https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 4. *Feature Engineering*
 
 5. *Key Visualisations*
-![image](https://user-images.githubusercontent.com/44321100/160381705-6e24db7d-df5c-4cb8-9c5b-027ab2629e1f.png)
-
 
 6. *Conclusions*
 
@@ -60,13 +58,25 @@ https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 
 1. Traffic is **higher during the day time** on I-94, especially on the weekdays.
 
+![image](https://user-images.githubusercontent.com/44321100/160381705-6e24db7d-df5c-4cb8-9c5b-027ab2629e1f.png)
+
 2. Within the business days, there are **specific hours (peaks around 7 and 16)**.
+
+![image](https://user-images.githubusercontent.com/44321100/160382581-29f24684-33e4-491e-980c-e6e513fdb776.png)
+
 
 3. On an average, the **month of July shows lower traffic volume**, which is an interesting result and should be investigated further. The **warmer months between (March-October)** show a higher traffic as compared to the colder months.
 
+![image](https://user-images.githubusercontent.com/44321100/160382700-650d9755-aede-4606-9a09-c5457197664d.png)
+
+
 4. When other numerical factors were taken into account, it appeared that temperature might have some positive correlation with traffic volume, although it doesnt appear to show any significant relation.
 
+
 5. When the **categorical variables** were analysed, a few intersting insights came out: *Squall* and *Fog* show lower traffic volume, *Shower snow* and *light rain and snow* are outliers, with traffic volume going beyond 5000 on an average.
+
+![image](https://user-images.githubusercontent.com/44321100/160382869-85e35bb6-d23b-46b6-845c-1978ca52b40e.png)
+
 
 *Things to do*:
 
