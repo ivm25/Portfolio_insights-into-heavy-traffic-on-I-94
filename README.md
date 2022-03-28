@@ -38,6 +38,8 @@ https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 4. *Feature Engineering*
 
 5. *Key Visualisations*
+![image](https://user-images.githubusercontent.com/44321100/160381705-6e24db7d-df5c-4cb8-9c5b-027ab2629e1f.png)
+
 
 6. *Conclusions*
 
